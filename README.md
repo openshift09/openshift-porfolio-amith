@@ -1,53 +1,24 @@
-Amit Chincholkar – DevOps Engineer | OpenShift Administrator
+# 👋 Hi, I'm Amith — OpenShift-Focused DevOps Engineer
 
-Red Hat Certified | Kubernetes | CI/CD | IBM CP4I | GitOps | Cloud
+I specialize in containers, Kubernetes, and OpenShift automation.  
+My work focuses on building CI/CD pipelines, automating infrastructure, and deploying real-world applications on cloud-native platforms.
 
-Welcome to my DevOps & OpenShift engineering portfolio.
-This repository highlights my hands-on projects, automation work, and real-world enterprise experience managing cloud-native platforms.
+## 🔧 Core Skills
+- OpenShift, Kubernetes, Docker
+- CI/CD: Jenkins, GitHub Actions
+- Infrastructure as Code: Terraform
+- Configuration Management: Ansible
+- Monitoring: Prometheus, Grafana
+- Linux, Git, YAML
 
-About Me
+## 📚 Project Portfolios
+### Openshift Portfolio
+A complete set of 10+ hands-on OpenShift projects.
+[🔗 View Repo](https://github.com/openshift09/openshift-portfolio-amith)
 
-DevOps Engineer & Red Hat Certified OpenShift Administrator with 3+ years of experience in:
+## 📌 Certifications
+- Red Hat EX280 — OpenShift Administrator
 
-Kubernetes & OpenShift cluster administration
-
-CI/CD automation using Jenkins, GitHub
-
-GitOps workflows using Helm & Ansible
-
-IBM Cloud Pak (ACE, MQ, APIC, DataPower) deployments
-
-Observability with Prometheus & Grafana
-
-RBAC, NetworkPolicies, SCC, Secrets, and cluster security
-
-API development & lifecycle management
-
-AWS-based deployments & automation
-
-📂 Featured Projects
-1. OpenShift End-to-End Deployment Project
-
-A complete hands-on project demonstrating cluster setup, RBAC, NetworkPolicies, Routes/Ingress, CI/CD, and GitOps implementation.
-
-🔗 Repository:
-https://github.com/openshift09/Openshift-Project
-
-🛠️ Tech Stack
-
-Platforms: OpenShift 4.x, Kubernetes, AWS
-DevOps: Jenkins, GitHub, GitLab, Ansible, Helm
-Observability: Prometheus, Grafana, OpenShift Monitoring
-Security: RBAC, NetworkPolicies, SCC, Image scanning
-Integration: ACE, APIC, MQ, DataPower (IBM CP4I)
-Languages: Bash, Python
-
-📞 Contact
-
-📧 Email: amitchincholkar@gmail.com
-
-📍 Mumbai, Maharashtra
-🔗 GitHub: https://github.com/openshift09
-
-🟦 Thanks for visiting — feel free to explore the code!
-
+## 📬 Contact
+**LinkedIn:** www.linkedin.com/in/amith-s-c-32b370390
+**Email:** amitchincholkar@gmail.com
