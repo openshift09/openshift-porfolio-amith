@@ -1,0 +1,10 @@
+apiVersion: tekton.dev/v1beta1
+kind: Task
+metadata:
+  name: build-Task
+spec:
+  steps:
+  -  name: build
+     image: alpine
+     script:
+       echo "Building the application..."

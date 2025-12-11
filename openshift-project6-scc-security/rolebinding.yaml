@@ -1,0 +1,12 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: demo-scc-binding
+roleRef:
+  kind: ClusterRole
+  name: system:openshift:scc:demo-scc
+  apiGroup: rbac.authorization.k8s.io
+subjects:
+- kind: serviceaccount
+  name: demo-user
+  namespace: default

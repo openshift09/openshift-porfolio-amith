@@ -1,0 +1,9 @@
+apiVersion: tekton.dev/v1beta1
+kind: Pipeline
+metadata:
+  name: sample-pipelinerun
+spec:
+  pipelineRef:
+    name: sample-pipelineRef
+
+    
