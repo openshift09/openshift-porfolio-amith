@@ -1,8 +1,0 @@
-apiVersion: route.openshift.io/v1
-kind: route
-metadata:
-  name: demo-route
-spec:
-  to:
-    kind: Service
-    name: demo-Service
