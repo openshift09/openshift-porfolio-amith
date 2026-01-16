@@ -1,0 +1,8 @@
+node1 podA FAIL
+node1 podB FAIL
+node1 podC FAIL
+node2 podD FAIL
+node2 podE OK
+node3 podF OK
+node3 podG OK
+node3 podH FAIL

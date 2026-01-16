@@ -1,0 +1,6 @@
+node1 podA Running
+node1 podB CrashLoopBackOff
+node2 podC Running
+node2 podD Running
+node3 podE CrashLoopBackOff
+node3 podF CrashLoopBackOff

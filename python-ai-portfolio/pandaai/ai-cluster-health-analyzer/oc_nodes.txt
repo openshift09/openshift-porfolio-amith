@@ -1,0 +1,3 @@
+node1 Ready
+node2 Ready
+node3 NotReady
